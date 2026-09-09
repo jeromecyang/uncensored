@@ -2,12 +2,16 @@
 title: 舊金山灣區推薦步行區域
 ---
 
-以下推薦我自己最喜歡的幾個舊金山灣區步行、休閒區域。推薦標準：
+以下推薦幾個舊金山灣區我最喜歡的步行、休閒區域，提供給住在這裡或是有機會前來旅遊的人參考。
+
+推薦標準：
 
 1. 安全乾淨
 2. 大眾運輸可以到達
 3. 擁有行人友善的步行環境
 4. 適合不同年齡層
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1lDfjWGaWLp8OgmZCr_gHqqIMooaqqks&ehbc=2E312F&z=12" height="480" style="width: 100%"></iframe>
 
 ## 舊金山 San Francisco
 
@@ -33,12 +37,11 @@ title: 舊金山灣區推薦步行區域
 
 對我來說，這裡是一個適合帶著家人一起來閒逛、遙望金門大橋的地方，比起遊客眾多又擁擠的金門大橋觀景台，這裡舒服得多，也更適合週末長時間停留。大力推薦給來旅行或是居住在舊金山灣區者！
 
+### China Basin and Mission Bay 中國盆地與米遜灣 ([地圖](https://maps.app.goo.gl/b1M5YxNtz4NPYyop6))
 
+米遜灣是位在舊金山 Caltrain 車站與 Oracle Park 以南、鄰近舊金山灣、包含了 Chase Center、UCSF 醫學中心的區域，這裡早期是海灣的一部份，經歷過填海造陸、作為工業與鐵路車場用地的歷史，後來在工業外移、車場搬遷、人去樓空之後，2000年代初這裡開始新一輪的發展，先是 Oracle Park 完工 (當時稱為 Pacific Bell Park)，接著 UCSF 與附帶的生醫產業進入，近年是舊金山發展快速的多用途區域。
 
-
-### China Basin Park and Oracle Park
-
-https://maps.app.goo.gl/b1M5YxNtz4NPYyop6
+沿著海岸線，目前有幾處水岸開放民眾活動，其中最值得推薦的是中國盆地（China Basin）。這裡最早是開往東亞的商船停靠地點，因而得到中國盆地的名稱。這裡曾經很長一段時間是作為 Oracle Park 的停車場使用，直到 2024 年中國盆地公園完工，不只讓人能夠走近水岸，還提供了遙望 Oracle Park 的絕佳角度，同時也結合了附近的住商大樓開發，是個非常適合前來散步的地方。尤其因為鄰近火車站，很適合在搭車或是看比賽前後來這裡走走打發時間。
 
 ### Embarcadero Center
 
